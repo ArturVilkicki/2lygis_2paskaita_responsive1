@@ -14,9 +14,17 @@
 	<div class="container-fluid">
   		<div class="row pirmoDivoSpalva">
     		<div class="col-xs-12 col-sm-6 col-lg-8">
-    			<div align="center">
-    				<img src="asmenine.jpg" width="400" height="400">
-    			</div>
+    			<div class="card" style="width: 20rem;">
+  					<img class="card-img-top" style="height: 150px;" src="asmenine.jpg" alt="Card image cap">
+  				<div class="card-body">
+    			<h5 class="card-title">Artur Vilkicki </h5>
+    			<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    			<a href="http://facebook.com" target="_blank" class="btn btn-primary"><i class="fab fa-facebook-f"></i></a>
+    			<a href="http://twitter.com" target="_blank" class="btn btn-primary"><i class="fab fa-twitter"></i></a>
+
+
+  </div>
+</div>
     		</div>
     		<div class="col-xs-12 col-sm-6 col-lg-4">
     			<form method="post">
