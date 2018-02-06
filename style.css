@@ -1,0 +1,17 @@
+.pirmoDivoSpalva{
+	background-color: rgb(208, 116, 99);
+}
+.antroDivoSpalva{
+	background-color: rgb(208, 118, 99);
+}
+.trecioDivoSpalva {
+	background-color: rgb(208, 120, 99);
+}
+.ketvirtoDivoSpalva {
+	background-color: rgb(208, 122, 99);
+}
+.tekstoSpalva{
+	color: red;
+	font-family: 'Encode Sans Expanded', sans-serif;
+	text-align: center;
+}
